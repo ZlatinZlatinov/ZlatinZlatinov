@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZlatinZlatinov
 - 👀 I’m interested in programming on JS and making simple projects
-- 🌱 And I’m currently learning JS Fundamentals at SoftUni
+- 🌱 And I’m currently learning JS Advanced at SoftUni
 - 📫 Contact me: zlatin44@gmail.com
 
 <!---
